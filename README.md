@@ -184,7 +184,12 @@ Trust me, it works. Happy learning and happy coding! 🚀
 
 ---
 
-<div align="right">
-  <sub>Questions taken from DeepSeek<br>
-  Blog written by Siddhesh and ChatGPT</sub>
+<div align="right" style="font-family: 'Georgia', serif; font-size: 0.9em; color: #555; letter-spacing: 0.5px; line-height: 1.4; font-style: italic;">
+  <span style="border-top: 1px solid #eee; padding-top: 3px;">
+    Questions curated from DeepSeek.<br>
+    Reflections penned by Siddhesh,<br>
+    with insights from ChatGPT.
+  </span>
 </div>
+
+
